@@ -1,0 +1,15 @@
+[submodule "ps-product-service"]
+	path = ps-product-service
+	url = https://github.com/Abbiirr/ps-product-service.git
+[submodule "ps-order-service"]
+	path = ps-order-service
+	url = https://github.com/Abbiirr/ps-order-service.git
+[submodule "ps-payment-service"]
+	path = ps-payment-service
+	url = https://github.com/Abbiirr/ps-payment-service.git
+[submodule "ps-api-gateway"]
+	path = ps-api-gateway
+	url = https://github.com/Abbiirr/ps-api-gateway.git
+[submodule "ps-orchestrator-service"]
+	path = ps-orchestrator-service
+	url = https://github.com/Abbiirr/ps-orchestrator-service.git
